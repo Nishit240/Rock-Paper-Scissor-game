@@ -1,3 +1,3 @@
 # Rock-Paper-Scissor-game
 
-<img width="596" height="676" alt="Screenshot 2025-09-13 130345" src="https://github.com/user-attachments/assets/7ef2f940-ee45-47d8-870f-976ce0a1d419" />
+<img width="617" height="525" alt="Screenshot 2025-09-13 145516" src="https://github.com/user-attachments/assets/6a0d4155-6169-4fd2-a274-9989f053e944" />
