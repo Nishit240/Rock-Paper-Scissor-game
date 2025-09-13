@@ -20,11 +20,11 @@ while True:
     if you == bot:
         print("It's a Tie!")
     elif (you - bot) % 3 == 1:
-        print("🎉 You Win!")
-        score_you += 1
-    else:
         print("😢 You Lose..")
         score_bot += 1
+    else:
+        print("🎉 You Win!")
+        score_you += 1
 
     print(f"Score -> You: {score_you} | Bot: {score_bot}\n")
 
@@ -79,4 +79,5 @@ elif((bot==0 and you==0) or (bot==-1 and you==-1) or (bot==1 and you==1)):
 else:
     print("Enter correct Choice.")
 '''
+
 
